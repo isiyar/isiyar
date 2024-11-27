@@ -1,16 +1,12 @@
-## Hi there 👋
+##👀
+<br/>
 
-<!--
-**isiyar/isiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+I'm a fullstack developer 🛠️
+I do blockchain development on EVM and TON 🔗 
+I study computer science 🤓
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="isiyar | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:artemyplokhikh@gmail.com)
+[<img align="left" alt="isiyar | Twitter" width="22px" src="https://cdn.simpleicons.org/x/black/white" />](https://x.com/isiyar_)
+[<img align="left" alt="isiyar | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](t.me/dev_by_isiyar)
