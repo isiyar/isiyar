@@ -1,7 +1,7 @@
-#👀
+# 👀
 <br/>
 
-##About me:
+## About me:
 - Fullstack developer 🛠️
 - Do blockchain development on EVM and TON 🔗 
 - Study computer science 🤓
