@@ -1,5 +1,4 @@
 # 👀
-<br/>
 
 ## About me:
 - Fullstack developer 🛠️
