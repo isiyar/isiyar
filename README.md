@@ -1,10 +1,10 @@
-##👀
+#👀
 <br/>
 
-About me:
-I'm a fullstack developer 🛠️
-I do blockchain development on EVM and TON 🔗 
-I study computer science 🤓
+##About me:
+- Fullstack developer 🛠️
+- Do blockchain development on EVM and TON 🔗 
+- Study computer science 🤓
 <br/>
 
 [<img align="left" alt="isiyar | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:artemyplokhikh@gmail.com)
